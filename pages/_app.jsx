@@ -8,7 +8,7 @@ export default function App({ Component, pageProps }) {
     <Head>
       <meta name="Jolanta Homes"/>
       <title>Jolanta Homes</title>
-      <link rel="icon" type="image/png" href="/images/favicon.png"></link>
+      <link rel="icon" type="image/ico" href="/pictures/favicon.ico"></link>
     </Head>
     <div className="App">
       <Component {...pageProps} />
